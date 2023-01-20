@@ -1,0 +1,9 @@
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjUAS\PrjUAS\bin\Debug\PrjUAS.exe
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjUAS\PrjUAS\bin\Debug\PrjUAS.pdb
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjUAS\PrjUAS\bin\Debug\PrjUAS.xml
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjUAS\PrjUAS\obj\x86\Debug\PrjUAS.frmtransaksi.resources
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjUAS\PrjUAS\obj\x86\Debug\PrjUAS.Resources.resources
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjUAS\PrjUAS\obj\x86\Debug\PrjUAS.vbproj.GenerateResource.Cache
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjUAS\PrjUAS\obj\x86\Debug\PrjUAS.exe
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjUAS\PrjUAS\obj\x86\Debug\PrjUAS.xml
+E:\SATRIA\KULIAH\Semester 1\Interaksi Manusia dan Komputer\praktek\PrjUAS\PrjUAS\obj\x86\Debug\PrjUAS.pdb
